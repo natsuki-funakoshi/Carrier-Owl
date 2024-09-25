@@ -1,11 +1,15 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.GA'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        spiral: 3
+        bar: 1
+        disc: 1
+        disk: 1
+        cepheid: 2
+        warp: 2
+        milky way: 2
+        radial migration: 3
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
