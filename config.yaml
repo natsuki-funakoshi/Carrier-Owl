@@ -5,8 +5,11 @@ subject: 'cat:astro-ph.GA'
 keywords:
         spiral: 3
         bar: 1
-        disc: 1
-        disk: 1
+        thin disc: 1
+        thin disk: 1
+        thick disc: 1
+        thick disk: 1
+        formation: 1
         cepheid: 2
         warp: 2
         milky way: 2
